@@ -15,4 +15,4 @@ const Header = ({changeShowModal}) => {
   )
 }
 
-
+export default Header
